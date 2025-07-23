@@ -1,0 +1,5 @@
+{
+  "name": "Contract Insurance Provision Analyzer",
+  "description": "An application to upload a zip file of contracts, extract insurance-related provisions using keyword matching, and summarize them using the Gemini API.",
+  "requestFramePermissions": []
+}
